@@ -1,0 +1,1697 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "api.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "api.models",
+        "description": "api.models",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "django.contrib.messages.storage",
+        "description": "django.contrib.messages.storage",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages.storage",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "django.contrib.messages.storage",
+        "description": "django.contrib.messages.storage",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages.storage",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Fernet",
+        "importPath": "cryptography.fernet",
+        "description": "cryptography.fernet",
+        "isExtraImport": true,
+        "detail": "cryptography.fernet",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "PBKDF2HMAC",
+        "importPath": "cryptography.hazmat.primitives.kdf.pbkdf2",
+        "description": "cryptography.hazmat.primitives.kdf.pbkdf2",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.kdf.pbkdf2",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_FROM",
+        "importPath": "Exam.settings",
+        "description": "Exam.settings",
+        "isExtraImport": true,
+        "detail": "Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "importPath": "Exam.settings",
+        "description": "Exam.settings",
+        "isExtraImport": true,
+        "detail": "Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairSerializer",
+        "importPath": "rest_framework_simplejwt.serializers",
+        "description": "rest_framework_simplejwt.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenVerifyView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "configparser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "configparser",
+        "description": "configparser",
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "MyTokenObtainPairView",
+        "importPath": "api.views",
+        "description": "api.views",
+        "isExtraImport": true,
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "description": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "description": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "description": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "description": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "def stringify(value):\n    return _stringify(value, separators=(',', ':'))\nassert stringify([None, None]) == '[[null,null]]'\na = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "a = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['o']",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "b = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['one']",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['two']",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['three']",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['a']",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['test']",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['array']",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a2",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "a2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o2",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "o2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "str = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "oo",
+        "kind": 5,
+        "importPath": "AdminLteFrontend.node_modules.flatted.python.test",
+        "description": "AdminLteFrontend.node_modules.flatted.python.test",
+        "peekOfCode": "oo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "AdminLteFrontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Backend.api.migrations.0001_initial",
+        "description": "Backend.api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserInformation',\n            fields=[\n                ('id', models.UUIDField(default=api.models.get_uuid, primary_key=True, serialize=False, unique=True)),",
+        "detail": "Backend.api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UserInformationAdmin",
+        "kind": 6,
+        "importPath": "Backend.api.admin",
+        "description": "Backend.api.admin",
+        "peekOfCode": "class UserInformationAdmin(admin.ModelAdmin):\n    pass\n@admin.register(Test)\nclass TestAdmin(admin.ModelAdmin):\n    pass\n@admin.register(Question)\nclass QuestionAdmin(admin.ModelAdmin):\n    pass\n@admin.register(AnswerSheet)\nclass AnswerSheetAdmin(admin.ModelAdmin):",
+        "detail": "Backend.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TestAdmin",
+        "kind": 6,
+        "importPath": "Backend.api.admin",
+        "description": "Backend.api.admin",
+        "peekOfCode": "class TestAdmin(admin.ModelAdmin):\n    pass\n@admin.register(Question)\nclass QuestionAdmin(admin.ModelAdmin):\n    pass\n@admin.register(AnswerSheet)\nclass AnswerSheetAdmin(admin.ModelAdmin):\n    pass\n@admin.register(Answer)\nclass AnswerAdmin(admin.ModelAdmin):",
+        "detail": "Backend.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionAdmin",
+        "kind": 6,
+        "importPath": "Backend.api.admin",
+        "description": "Backend.api.admin",
+        "peekOfCode": "class QuestionAdmin(admin.ModelAdmin):\n    pass\n@admin.register(AnswerSheet)\nclass AnswerSheetAdmin(admin.ModelAdmin):\n    pass\n@admin.register(Answer)\nclass AnswerAdmin(admin.ModelAdmin):\n    pass",
+        "detail": "Backend.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerSheetAdmin",
+        "kind": 6,
+        "importPath": "Backend.api.admin",
+        "description": "Backend.api.admin",
+        "peekOfCode": "class AnswerSheetAdmin(admin.ModelAdmin):\n    pass\n@admin.register(Answer)\nclass AnswerAdmin(admin.ModelAdmin):\n    pass",
+        "detail": "Backend.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerAdmin",
+        "kind": 6,
+        "importPath": "Backend.api.admin",
+        "description": "Backend.api.admin",
+        "peekOfCode": "class AnswerAdmin(admin.ModelAdmin):\n    pass",
+        "detail": "Backend.api.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "Backend.api.apps",
+        "description": "Backend.api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'api'",
+        "detail": "Backend.api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserInformation",
+        "kind": 6,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "class UserInformation(models.Model):\n    id = models.UUIDField(default=get_uuid, primary_key=True, unique=True)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    def __str__(self):\n        return str(self.user.username)\ndef get_uuid_test():\n    while True:\n        id = uuid.uuid4()\n        if Test.objects.filter(id=id).count() == 0:\n            return id",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "kind": 6,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "class Test(models.Model):\n    id = models.UUIDField(default=get_uuid_test, primary_key=True, unique=True)\n    author = models.ForeignKey(User, on_delete=models.CASCADE)\n    title = models.CharField(max_length=200)\n    subject = models.CharField(max_length=100)\n    description = models.TextField(blank=True, null=True, default=None)\n    total_questions = models.IntegerField(default=0)\n    marks_per_question = models.FloatField(default=1.0)\n    total_time = models.DurationField()\n    from_date = models.DateTimeField(default=None, blank=True, null=True)",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Question",
+        "kind": 6,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "class Question(models.Model):\n    id = models.UUIDField(default=get_uuid_question, primary_key=True, unique=True)\n    author = models.ForeignKey(User, on_delete=models.CASCADE)\n    test = models.ForeignKey(Test, on_delete=models.CASCADE)\n    title = models.CharField(max_length=200, default=None)\n    question = models.TextField()\n    option_1 = models.TextField()\n    option_2 = models.TextField()\n    option_3 = models.TextField()\n    option_4 = models.TextField()",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerSheet",
+        "kind": 6,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "class AnswerSheet(models.Model):\n    id = models.UUIDField(default=get_uuid_answer_sheet, primary_key=True, unique=True)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    test = models.ForeignKey(Test, on_delete=models.CASCADE)\n    remaining_time = models.DurationField()\n    remaining_warning = models.IntegerField(default=5)\n    start_time = models.DateTimeField(auto_now_add=True)\n    end_time = models.DateTimeField(default=None, null=True, blank=True)\n    last_question = models.IntegerField(default=1)\n    status = models.BooleanField(default=False)",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Answer",
+        "kind": 6,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "class Answer(models.Model):\n    id = models.UUIDField(default=get_uuid_answer, primary_key=True, unique=True)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    answer_sheet = models.ForeignKey(AnswerSheet, on_delete=models.CASCADE)\n    question = models.ForeignKey(Question, on_delete=models.CASCADE)\n    question_number = models.IntegerField()\n    answer = models.IntegerField(default=None, blank=True, null=True)\n    bookmark = models.BooleanField(default=False)\n    attempted = models.BooleanField(default=False)\n    time = models.DateTimeField(auto_now=True)",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid",
+        "kind": 2,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "def get_uuid():\n    while True:\n        id = uuid.uuid4()\n        if UserInformation.objects.filter(id=id).count() == 0:\n            return id\nclass UserInformation(models.Model):\n    id = models.UUIDField(default=get_uuid, primary_key=True, unique=True)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    def __str__(self):\n        return str(self.user.username)",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid_test",
+        "kind": 2,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "def get_uuid_test():\n    while True:\n        id = uuid.uuid4()\n        if Test.objects.filter(id=id).count() == 0:\n            return id\nclass Test(models.Model):\n    id = models.UUIDField(default=get_uuid_test, primary_key=True, unique=True)\n    author = models.ForeignKey(User, on_delete=models.CASCADE)\n    title = models.CharField(max_length=200)\n    subject = models.CharField(max_length=100)",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid_question",
+        "kind": 2,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "def get_uuid_question():\n    while True:\n        id = uuid.uuid4()\n        if Question.objects.filter(id=id).count() == 0:\n            return id\nclass Question(models.Model):\n    id = models.UUIDField(default=get_uuid_question, primary_key=True, unique=True)\n    author = models.ForeignKey(User, on_delete=models.CASCADE)\n    test = models.ForeignKey(Test, on_delete=models.CASCADE)\n    title = models.CharField(max_length=200, default=None)",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid_answer_sheet",
+        "kind": 2,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "def get_uuid_answer_sheet():\n    while True:\n        id = uuid.uuid4()\n        if AnswerSheet.objects.filter(id=id).count() == 0:\n            return id\nclass AnswerSheet(models.Model):\n    id = models.UUIDField(default=get_uuid_answer_sheet, primary_key=True, unique=True)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    test = models.ForeignKey(Test, on_delete=models.CASCADE)\n    remaining_time = models.DurationField()",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid_answer",
+        "kind": 2,
+        "importPath": "Backend.api.models",
+        "description": "Backend.api.models",
+        "peekOfCode": "def get_uuid_answer():\n    while True:\n        id = uuid.uuid4()\n        if Answer.objects.filter(id=id).count() == 0:\n            return id\nclass Answer(models.Model):\n    id = models.UUIDField(default=get_uuid_answer, primary_key=True, unique=True)\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    answer_sheet = models.ForeignKey(AnswerSheet, on_delete=models.CASCADE)\n    question = models.ForeignKey(Question, on_delete=models.CASCADE)",
+        "detail": "Backend.api.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "Backend.api.serializers",
+        "description": "Backend.api.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = '__all__'\n# class TestSerializer(serializers.ModelSerializer):\n#     class Meta:\n#         model = Test\n#         fields = ['id', 'title', 'subject']\n#test serializer\nclass TestSerializer(serializers.ModelSerializer):",
+        "detail": "Backend.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TestSerializer",
+        "kind": 6,
+        "importPath": "Backend.api.serializers",
+        "description": "Backend.api.serializers",
+        "peekOfCode": "class TestSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Test\n        fields = '__all__'\nclass AnswerSheetSerializer(serializers.ModelSerializer):\n    test = TestSerializer()\n    class Meta:\n        model = AnswerSheet\n        fields = ['test']\nclass VerifySerializer(serializers.Serializer):",
+        "detail": "Backend.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerSheetSerializer",
+        "kind": 6,
+        "importPath": "Backend.api.serializers",
+        "description": "Backend.api.serializers",
+        "peekOfCode": "class AnswerSheetSerializer(serializers.ModelSerializer):\n    test = TestSerializer()\n    class Meta:\n        model = AnswerSheet\n        fields = ['test']\nclass VerifySerializer(serializers.Serializer):\n    username = serializers.CharField(max_length=100)\n    data = serializers.CharField()\n# #exam serializer\n# class QuestionSerializer(serializers.ModelSerializer):",
+        "detail": "Backend.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "VerifySerializer",
+        "kind": 6,
+        "importPath": "Backend.api.serializers",
+        "description": "Backend.api.serializers",
+        "peekOfCode": "class VerifySerializer(serializers.Serializer):\n    username = serializers.CharField(max_length=100)\n    data = serializers.CharField()\n# #exam serializer\n# class QuestionSerializer(serializers.ModelSerializer):\n#     test = serializers.CharField(source='test.title')\n#     class Meta:\n#         model = Question\n#         fields = ['id', 'title', 'test']\n#exam serializer",
+        "detail": "Backend.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionSerializer",
+        "kind": 6,
+        "importPath": "Backend.api.serializers",
+        "description": "Backend.api.serializers",
+        "peekOfCode": "class QuestionSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Question\n        fields = '__all__'",
+        "detail": "Backend.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Backend.api.urls",
+        "description": "Backend.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('accounts/login', views.Users.login),\n    path('accounts/login2', views.UserLoginView.as_view()),\n    path('accounts/register', views.Users.register),\n    path('accounts/register2', views.RegisterAPIView.as_view()),\n    path('accounts/logout', views.Users.logout),\n    path('accounts/logout2', views.logout_view),\n    path('accounts/forgot_password', views.Users.forgot_password),\n    path('accounts/forgot_password2', views.ForgotPasswordView.as_view()),\n    path('accounts/reset_password', views.Users.reset_password),",
+        "detail": "Backend.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "MyTokenObtainPairSerializer",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class MyTokenObtainPairSerializer(TokenObtainPairSerializer):\n    @classmethod\n    def get_token(cls, user):\n        token = super().get_token(user)\n        # Add custom claims\n        token['is_active'] = user.is_active\n        # ...\n        return token\nclass MyTokenObtainPairView(TokenObtainPairView):\n    serializer_class = MyTokenObtainPairSerializer",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "MyTokenObtainPairView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class MyTokenObtainPairView(TokenObtainPairView):\n    serializer_class = MyTokenObtainPairSerializer\n# DRF views    \n#authentication \nclass UserLoginView(APIView):\n    authentication_classes = []\n    permission_classes = []\n    def post(self, request):\n        if request.method == 'POST':\n            username = request.data.get('username')",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class UserLoginView(APIView):\n    authentication_classes = []\n    permission_classes = []\n    def post(self, request):\n        if request.method == 'POST':\n            username = request.data.get('username')\n            password = request.data.get('password')  \n            if not (username and password):\n                return Response({   \n                    'status': False,    ",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterAPIView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class RegisterAPIView(APIView):\n    authentication_classes = []\n    permission_classes = []\n    def post(self, request):\n        if request.method == \"POST\":\n            first_name = request.data.get('first_name')\n            last_name = request.data.get('last_name')\n            username = request.data.get('username')\n            email = request.data.get('email')\n            password = request.data.get('password')",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ForgotPasswordView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class ForgotPasswordView(APIView):\n    def post(self, request):\n        email = request.data.get('email')\n        if not email:\n            return Response({\n                'status': False,\n                'code': 400,\n                'data': {\n                    'error': \"400 - BAD REQUEST\",\n                    'message': 'Email is required',",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DashboardAPIView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class DashboardAPIView(APIView):\n    def get(self, request):\n        if request.user.is_authenticated:\n            recent_uploaded_tests = Test.objects.filter(status=True).order_by('-created_on')[:4]\n            in_progress_tests = AnswerSheet.objects.filter(user=request.user, status=False).order_by('-created_on')[:4]\n            completed_tests = AnswerSheet.objects.filter(user=request.user, status=True).order_by('-created_on')[:4]\n            recent_uploaded_tests_data = TestSerializer(recent_uploaded_tests, many=True).data\n            in_progress_tests_data = TestSerializer(in_progress_tests, many=True).data\n            completed_tests_data = TestSerializer(completed_tests, many=True).data\n            return Response({",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsAPIView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class SettingsAPIView(APIView):\n    def post(self, request):\n        print(\"this is user: \",request.user.is_authenticated)\n        if request.user.is_authenticated:\n            first_name = request.data.get('first_name')\n            last_name = request.data.get('last_name')\n            try:\n                user = User.objects.get(username=request.user.username)\n            except User.DoesNotExist:\n                return Response({",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "TestAPIView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class TestAPIView(APIView):\n    def get(self, request):\n        if request.method == \"GET\":\n            if request.user.is_authenticated:\n                id = request.GET.get('id')\n                try:\n                    test = Test.objects.get(id=id)\n                    if AnswerSheet.objects.filter(user=request.user, test=test).exists():\n                        answersheet = AnswerSheet.objects.get(user=request.user, test=test)\n                        status = answersheet.status",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExamListView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class ExamListView(APIView):\n    def get(self, request):\n        if request.method == \"GET\":\n            if request.user.is_authenticated:\n                test_list = []\n                for test in Test.objects.all():\n                    if AnswerSheet.objects.filter(user=request.user, test=test).count() == 0:\n                        test_list.append({\n                            'id': test.id,\n                            'name': test.title,",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExamineView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class ExamineView(APIView):\n    def get(self, request):\n        if request.method == \"GET\":\n            if request.user.is_authenticated:\n                if request.user.is_staff:\n                    test_queryset = Test.objects.filter(author=request.user).order_by('-created_on')[:4]\n                    test_serializer = TestSerializer(test_queryset, many=True)\n                    question_queryset = Question.objects.filter(author=request.user).order_by('-created_on')[:4]\n                    question_serializer = QuestionSerializer(question_queryset, many=True)\n                    return Response({",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "TestView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class TestView(APIView):\n    def get(self, request):\n        if request.method == \"GET\":\n            if request.user.is_authenticated:\n                if request.user.is_staff:\n                    id = request.GET.get('id')\n                    if Test.objects.filter(id=id).exists():\n                        test = Test.objects.get(id=id)\n                        questions = Question.objects.filter(test=test)\n                        test_serializer = TestSerializer(test)",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UploadedTestListView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class UploadedTestListView(APIView):\n    def get(self, request):\n        if request.user.is_authenticated:\n            if request.user.is_staff:\n                tests = Test.objects.filter(author=request.user).order_by('-created_on')\n                serializer = TestSerializer(tests, many=True)\n                return Response({'status': True, 'code': status.HTTP_200_OK, 'data': {'test_list': serializer.data}})\n            else:\n                return Response({'status': False, 'code': status.HTTP_403_FORBIDDEN,\n                                 'data': {'error': \"403 - Forbidden\", 'message': 'Access Denied'}})",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditTestView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class EditTestView(APIView):\n    def post(self, request):\n        if request.user.is_authenticated:\n            if request.user.is_staff:\n                id = request.data.get('id')\n                title = request.data.get('title')\n                subject = request.data.get('subject')\n                description = request.data.get('description')\n                total_questions = request.data.get('total_questions')\n                marks_per_question = request.data.get('marks_per_question')",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ResultListView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class ResultListView(APIView):\n    def post(self, request, *args, **kwargs):\n        if request.user.is_authenticated:\n            if request.user.is_staff:\n                id = request.data.get('id')  # Using request.data instead of request.POST\n                try:\n                    test = Test.objects.get(id=id, author=request.user)\n                except Test.DoesNotExist:\n                    return Response({'error': 'Test not found'}, status=status.HTTP_404_NOT_FOUND)\n                test_list = []",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddTestView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class AddTestView(APIView):\n    def post(self, request):\n        if request.user.is_authenticated:\n            if request.user.is_staff:\n                title = request.data.get('title')\n                subject = request.data.get('subject')\n                description = request.data.get('description')\n                total_questions = request.data.get('total_questions')\n                marks_per_question = request.data.get('marks_per_question')\n                total_time = request.data.get('total_time')",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class QuestionView(APIView):\n    def get(self, request, *args, **kwargs):\n        if request.user.is_authenticated:\n            if request.user.is_staff:\n                question_id = request.query_params.get('id')\n                try:\n                    question = Question.objects.get(id=question_id)\n                except Question.DoesNotExist:\n                    return Response({'error': '404 - Not Found', 'message': 'Question not found'}, status=status.HTTP_404_NOT_FOUND)\n                serializer = QuestionSerializer(question)",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddQuestionView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class AddQuestionView(APIView):\n    def post(self, request):\n        if request.user.is_authenticated:\n            if request.user.is_staff:\n                id = request.data.get('id')\n                author = request.user\n                title = request.data.get('title')\n                question_text = request.data.get('question')\n                option_1 = request.data.get('option_1')\n                option_2 = request.data.get('option_2')",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditQuestionView",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class EditQuestionView(APIView):\n    def post(self, request):\n        if request.user.is_authenticated:\n            if request.user.is_staff:\n                id = request.data.get('id')\n                title = request.data.get('title')\n                question_text = request.data.get('question')\n                option_1 = request.data.get('option_1')\n                option_2 = request.data.get('option_2')\n                option_3 = request.data.get('option_3')",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class Users:\n    def login(self):\n        if self.method == \"POST\":\n            username = self.POST.get('username')\n            password = self.POST.get('password')\n            if User.objects.filter(username=username).count() == 0:\n                return JsonResponse({\n                    'status': False,\n                    'code': 404,\n                    'data': {",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Dashboard",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class Dashboard:\n    def dashboard(self):\n        if self.method == \"GET\":\n            if self.user.is_authenticated:\n                recent_uploaded_test_list = []\n                count = 0\n                for test in list(Test.objects.filter(status=True).order_by('-created_on')):\n                    recent_uploaded_test_list.append({\n                        'id': test.id,\n                        'title': test.title,",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Examine",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class Examine:\n    def examine(self):\n        if self.method == \"GET\":\n            if self.user.is_authenticated:\n                if self.user.is_staff:\n                    test_list = []\n                    count = 0\n                    for test in list(Test.objects.filter(author=self.user).order_by('-created_on')):\n                        test_list.append({\n                            'id': test.id,",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Exam",
+        "kind": 6,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "class Exam:\n    @staticmethod\n    def time_to_second(time):\n        time = str(time).split(':')\n        seconds = (int(time[0]) * 3600) + (int(time[1]) * 60) + (int(time[2]))\n        return seconds\n    @staticmethod\n    def second_to_time(seconds):\n        return datetime.timedelta(seconds=int(seconds))\n    def exam(self):",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_tokens_for_user",
+        "kind": 2,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "def get_tokens_for_user(user):\n    refresh = RefreshToken.for_user(user)\n    return {\n        'refresh': str(refresh),\n        'access': str(refresh.access_token),\n    }\ndef key_maker(username):\n    kdf = PBKDF2HMAC(\n        algorithm=hashes.SHA256(),\n        length=32,",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "key_maker",
+        "kind": 2,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "def key_maker(username):\n    kdf = PBKDF2HMAC(\n        algorithm=hashes.SHA256(),\n        length=32,\n        salt=b'\\xcfz\\xfc\\xdcF\\xc1d\\xc1\\xb4\\xfa5%\\xe7\\xa5\\x14\\x16',\n        iterations=100000,\n        backend=default_backend()\n    )\n    return Fernet(base64.urlsafe_b64encode(kdf.derive(str(SECRET_KEY + username[::-1]).encode())))\nclass MyTokenObtainPairSerializer(TokenObtainPairSerializer):",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "Backend.api.views",
+        "description": "Backend.api.views",
+        "peekOfCode": "def logout_view(request):\n    print(\"i am request user \", request.user)\n    if request.user.is_authenticated:\n        logout(request)\n        return Response({\n            'status': True,\n            'code': status.HTTP_200_OK,\n            'data': {\n                'message': \"Logout Successful\"\n            }",
+        "detail": "Backend.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Backend.Exam.asgi",
+        "description": "Backend.Exam.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Backend.Exam.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "configure_website",
+        "kind": 2,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "def configure_website(request):\n    config_website = configparser.RawConfigParser()\n    config_website.read('Database/server.properties')\n    return {\n        'Server_Title': config_website.get('Server', 'server.title'),\n        'Server_Description': config_website.get('Server', 'server.description'),\n        'Version': config_website.get('Server', 'server.version'),\n    }\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = config.get('SecretSection', 'secret.key')",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Reading Properties\nconfig = configparser.RawConfigParser()\nconfig.read('Database/server.properties')\ndef configure_website(request):\n    config_website = configparser.RawConfigParser()\n    config_website.read('Database/server.properties')\n    return {\n        'Server_Title': config_website.get('Server', 'server.title'),\n        'Server_Description': config_website.get('Server', 'server.description'),",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "config = configparser.RawConfigParser()\nconfig.read('Database/server.properties')\ndef configure_website(request):\n    config_website = configparser.RawConfigParser()\n    config_website.read('Database/server.properties')\n    return {\n        'Server_Title': config_website.get('Server', 'server.title'),\n        'Server_Description': config_website.get('Server', 'server.description'),\n        'Version': config_website.get('Server', 'server.version'),\n    }",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "SECRET_KEY = config.get('SecretSection', 'secret.key')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = config.getboolean('SecretSection', 'secret.debug')\nALLOWED_HOSTS = ['127.0.0.1', config.get('SecretSection', 'secret.host')]\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "DEBUG = config.getboolean('SecretSection', 'secret.debug')\nALLOWED_HOSTS = ['127.0.0.1', config.get('SecretSection', 'secret.host')]\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'drf_yasg',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['127.0.0.1', config.get('SecretSection', 'secret.host')]\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'drf_yasg',\n    'rest_framework_simplejwt',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'drf_yasg',\n    'rest_framework_simplejwt',\n    'rest_framework_simplejwt.token_blacklist',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "ROOT_URLCONF = 'Exam.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, \"templates\")],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, \"templates\")],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'Exam.wsgi.application'\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'Database/db.sqlite3',\n    }\n    # 'default': {\n    #     'ENGINE': 'django.db.backends.mysql',\n    #     'NAME': 'exam',\n    #     'USER': 'root',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'Database/db.sqlite3',\n    }\n    # 'default': {\n    #     'ENGINE': 'django.db.backends.mysql',\n    #     'NAME': 'exam',\n    #     'USER': 'root',\n    #     'PASSWORD': '1234',",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "LANGUAGE_CODE = config.get('Server', 'server.language_code')\nTIME_ZONE = config.get('Server', 'server.time_zone')\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = False\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "TIME_ZONE = config.get('Server', 'server.time_zone')\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = False\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = False\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = False\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "USE_TZ = False\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nEMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "EMAIL_BACKEND = config.get('Email', 'email.backend')\nEMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "EMAIL_HOST = config.get('Email', 'email.host')\nEMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'\n# LOGOUT_URL = '/accounts/logout'",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "EMAIL_PORT = config.getint('Email', 'email.port')\nEMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'\n# LOGOUT_URL = '/accounts/logout'\nDATA_UPLOAD_MAX_MEMORY_SIZE = 50242880",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "EMAIL_HOST_USER = config.get('Email', 'email.host_user')\nEMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'\n# LOGOUT_URL = '/accounts/logout'\nDATA_UPLOAD_MAX_MEMORY_SIZE = 50242880\n# change the allowed origin to frontend ",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = config.get('Email', 'email.host_password')\nEMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'\n# LOGOUT_URL = '/accounts/logout'\nDATA_UPLOAD_MAX_MEMORY_SIZE = 50242880\n# change the allowed origin to frontend \nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "EMAIL_USE_TLS = config.getboolean('Email', 'email.use_tls')\nEMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'\n# LOGOUT_URL = '/accounts/logout'\nDATA_UPLOAD_MAX_MEMORY_SIZE = 50242880\n# change the allowed origin to frontend \nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOW_CREDENTIALS = True",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_FROM",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "EMAIL_FROM = str(config.get('Email', 'email.from'))\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'\n# LOGOUT_URL = '/accounts/logout'\nDATA_UPLOAD_MAX_MEMORY_SIZE = 50242880\n# change the allowed origin to frontend \nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOW_CREDENTIALS = True\nSIMPLE_JWT = {",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#\n# LOGIN_URL = '/accounts/login'\n# LOGOUT_URL = '/accounts/logout'\nDATA_UPLOAD_MAX_MEMORY_SIZE = 50242880\n# change the allowed origin to frontend \nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOW_CREDENTIALS = True\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=5),",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_UPLOAD_MAX_MEMORY_SIZE",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "DATA_UPLOAD_MAX_MEMORY_SIZE = 50242880\n# change the allowed origin to frontend \nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOW_CREDENTIALS = True\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=5),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=90),\n    \"ROTATE_REFRESH_TOKENS\": True,\n    \"BLACKLIST_AFTER_ROTATION\": True  ,\n    \"UPDATE_LAST_LOGIN\": False,",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOW_CREDENTIALS = True\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=5),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=90),\n    \"ROTATE_REFRESH_TOKENS\": True,\n    \"BLACKLIST_AFTER_ROTATION\": True  ,\n    \"UPDATE_LAST_LOGIN\": False,\n    \"ALGORITHM\": \"HS256\",\n    \"VERIFYING_KEY\":None,",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_CREDENTIALS",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "CORS_ALLOW_CREDENTIALS = True\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=5),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=90),\n    \"ROTATE_REFRESH_TOKENS\": True,\n    \"BLACKLIST_AFTER_ROTATION\": True  ,\n    \"UPDATE_LAST_LOGIN\": False,\n    \"ALGORITHM\": \"HS256\",\n    \"VERIFYING_KEY\":None,\n    \"AUDIENCE\": None,",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=5),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=90),\n    \"ROTATE_REFRESH_TOKENS\": True,\n    \"BLACKLIST_AFTER_ROTATION\": True  ,\n    \"UPDATE_LAST_LOGIN\": False,\n    \"ALGORITHM\": \"HS256\",\n    \"VERIFYING_KEY\":None,\n    \"AUDIENCE\": None,\n    \"ISSUER\": None,",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "Backend.Exam.settings",
+        "description": "Backend.Exam.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n}",
+        "detail": "Backend.Exam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "Backend.Exam.urls",
+        "description": "Backend.Exam.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n   openapi.Info(\n      title=\"  Documentation for the authentication api\",\n      default_version='v1',\n      description=\"This the the Api documentation for the authentication api \",\n      terms_of_service=\"https://www.google.com/policies/terms/\",\n      contact=openapi.Contact(email=\"contact@snippets.local\"),\n      license=openapi.License(name=\"BSD License\"),\n   ),\n   public=True,",
+        "detail": "Backend.Exam.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Backend.Exam.urls",
+        "description": "Backend.Exam.urls",
+        "peekOfCode": "urlpatterns = [ \n    path('api/token/', MyTokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n    path('api/token/verify/', TokenVerifyView.as_view(), name='token_verify'),\n    path('admin/', admin.site.urls),\n    path('', include(\"website.urls\")),\n    path('api/', include(\"api.urls\")),\n    path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n]\n# Mangesh vispute",
+        "detail": "Backend.Exam.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Backend.Exam.wsgi",
+        "description": "Backend.Exam.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Backend.Exam.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "importlib_load_entry_point",
+        "kind": 2,
+        "importPath": "Backend.venv.Scripts.HttpPy-script",
+        "description": "Backend.venv.Scripts.HttpPy-script",
+        "peekOfCode": "def importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')\n    matches = (\n        entry_point\n        for entry_point in distribution(dist_name).entry_points\n        if entry_point.group == group and entry_point.name == name\n    )\n    return next(matches).load()\nglobals().setdefault('load_entry_point', importlib_load_entry_point)\nif __name__ == '__main__':",
+        "detail": "Backend.venv.Scripts.HttpPy-script",
+        "documentation": {}
+    },
+    {
+        "label": "__requires__",
+        "kind": 5,
+        "importPath": "Backend.venv.Scripts.HttpPy-script",
+        "description": "Backend.venv.Scripts.HttpPy-script",
+        "peekOfCode": "__requires__ = 'HttpPy==0.0.9'\ntry:\n    from importlib.metadata import distribution\nexcept ImportError:\n    try:\n        from importlib_metadata import distribution\n    except ImportError:\n        from pkg_resources import load_entry_point\ndef importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')",
+        "detail": "Backend.venv.Scripts.HttpPy-script",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteConfig",
+        "kind": 6,
+        "importPath": "Backend.website.apps",
+        "description": "Backend.website.apps",
+        "peekOfCode": "class WebsiteConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'website'",
+        "detail": "Backend.website.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Backend.website.urls",
+        "description": "Backend.website.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.User.home),\n    path('error', views.Error.error),\n    path('accounts/login', views.User.login),\n    path('accounts/register', views.User.register),\n    path('accounts/logout', views.User.logout),\n    path('accounts/forgot_password', views.User.forgot_password),\n    path('accounts/reset_password', views.User.reset_password),\n    path('accounts/verify', views.User.verify_email),\n    path('accounts/email_sent', views.User.email_sent),",
+        "detail": "Backend.website.urls",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "Backend.website.views",
+        "description": "Backend.website.views",
+        "peekOfCode": "class User:\n    def home(self):\n        if self.method == 'GET':\n            if self.user.is_authenticated:\n                return redirect(\"/dashboard\")\n            return render(self, \"user/home.html\")\n        else:\n            return redirect(\"/error?error=400 - BAD REQUEST&message=Wrong Request Method Used\")\n    def  register(self):\n        if self.method == 'GET':",
+        "detail": "Backend.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "Error",
+        "kind": 6,
+        "importPath": "Backend.website.views",
+        "description": "Backend.website.views",
+        "peekOfCode": "class Error:\n    @staticmethod\n    def error(request):\n        if request.method == \"GET\":\n            error = request.GET.get('error')\n            message = request.GET.get('message')\n            if error is None or message is None:\n                return render(request, \"error/index.html\", {\n                    'error': \"404 - Not Found\",\n                    'message': \"Error To Found\"",
+        "detail": "Backend.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "Dashboard",
+        "kind": 6,
+        "importPath": "Backend.website.views",
+        "description": "Backend.website.views",
+        "peekOfCode": "class Dashboard:\n    def dashboard(self):\n        if self.user.is_authenticated:\n            return render(self, \"dashboard/dashboard.html\")\n        else:\n            return redirect(\"/\")\n    def profile(self):\n        if self.user.is_authenticated:\n            return render(self, \"dashboard/profile.html\")\n        else:",
+        "detail": "Backend.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "Examine",
+        "kind": 6,
+        "importPath": "Backend.website.views",
+        "description": "Backend.website.views",
+        "peekOfCode": "class Examine:\n    def examine(self):\n        if self.method == \"GET\":\n            if self.user.is_authenticated:\n                if self.user.is_staff:\n                    return render(self, \"examine/examine.html\")\n                else:\n                    return redirect(\"/error?error=403 - FORBIDDEN&message=Access Denied\")\n            else:\n                return redirect(\"/\")",
+        "detail": "Backend.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "Exam",
+        "kind": 6,
+        "importPath": "Backend.website.views",
+        "description": "Backend.website.views",
+        "peekOfCode": "class Exam:\n    def exam(self):\n        if self.method == \"GET\":\n            if self.user.is_authenticated:\n                id = self.session['exam'].get('answersheet')\n                return render(self, \"exam/exam.html\", {\n                    'id': id,\n                })\n            else:\n                return redirect(\"/error?error=400 - BAD REQUEST&message=Not Permitted this Process\")",
+        "detail": "Backend.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Backend.manage",
+        "description": "Backend.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Exam.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Backend.manage",
+        "documentation": {}
+    }
+]
