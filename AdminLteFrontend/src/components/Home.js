@@ -1,10 +1,14 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
-
+import Footer from "./Footer";
+import Header from "./Header";
+import SideNav from "./SideNav";
 const Home = () => {
-  return (
-    <div>
+  return (    
+    <div className="bg-white">
+      <Header/>
+      <SideNav/>      
       {" "}
       {/* Content Wrapper. Contains page content */}
       <div className="content-wrapper">
@@ -876,6 +880,7 @@ const Home = () => {
         </section>
         {/* /.content */}
       </div>
+      <Footer/>
     </div>
   );
 };
