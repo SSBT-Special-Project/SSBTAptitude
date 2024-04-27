@@ -5,10 +5,14 @@ import SideNav from "./SideNav";
 function Settings() {
   return (
     <>
-    <div className="bg-white">
+     <div>
       <Header/>
       <SideNav/> 
+     <div className='wrapper'>
+      <div className='content-wrapper' style={{color:'black', textAlign:'center'}}>
         Settings
+      </div>
+     </div>
       <Footer/>  
       </div>
    </>

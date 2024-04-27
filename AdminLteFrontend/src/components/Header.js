@@ -7,7 +7,7 @@ const Header = () => {
   console.log("i am user", useContext(AuthContext));
   let { user, logoutUser } = useContext(AuthContext);
   return (
-    <div>
+    <div className="wrapper" >
       {" "}
       {/* Navbar */}
       <nav className="main-header navbar navbar-expand navbar-white navbar-light">
@@ -31,9 +31,10 @@ const Header = () => {
           </li>
           {user ? (
             <li className="nav-item d-none d-sm-inline-block">
-              <p onClick={logoutUser} className="nav-link">
+              
+              <a onClick={logoutUser} className="nav-link" style={{cursor:"pointer"}}>
                 Logout
-              </p>
+              </a>
             </li>
           ) : (
             <div>

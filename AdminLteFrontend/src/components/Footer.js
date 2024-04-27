@@ -2,9 +2,9 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div>
-      <div>
-        <footer className="main-footer">
+   
+      <>
+        <footer className="wrapper">
           <strong>
             Copyright © 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.
           </strong>
@@ -17,8 +17,8 @@ const Footer = () => {
         <aside className="control-sidebar control-sidebar-dark">
           {/* Control sidebar content goes here */}
         </aside>
-      </div>
-    </div>
+      </>
+   
   );
 };
 

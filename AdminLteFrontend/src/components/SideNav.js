@@ -32,7 +32,7 @@ const SideNav = () => {
             </div>
             <div className="info">
               <a href="#" className="d-block">
-                Chaitali Lohar
+                Admin LTE
               </a>
             </div>
           </div>
