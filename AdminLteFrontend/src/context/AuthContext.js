@@ -45,7 +45,7 @@ export const AuthProvider = ({ children }) => {
         setUser(jwtDecode(data.token.access));
         localStorage.setItem("authTokens", JSON.stringify(data.token));
         alert("Login successful!");
-        navigate("/");
+        navigate("/home");
       } else {
         alert(data.data.message);
       }

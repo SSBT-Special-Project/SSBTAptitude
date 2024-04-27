@@ -7,8 +7,6 @@ const Login = () => {
   return (
     <>
       <div className="content-wrapper">
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Log in</title>
         {/* Google Font: Source Sans Pro */}
         <link
@@ -27,8 +25,10 @@ const Login = () => {
         />
         {/* Theme style */}
         <link rel="stylesheet" href="../../dist/css/adminlte.min.css" />
-        <div className="login-box">
-          <div className="card">
+        
+        <div className="login-box">     
+        <div className="">
+          <div className="card d-flex aligns-items-center justify-content-center card text-center">
             <div className="card-body login-card-body">
               <p className="login-box-msg">Sign in to start your session</p>
               <form onSubmit={loginUser} method="post">
@@ -101,6 +101,7 @@ const Login = () => {
         {/* jQuery */}
         {/* Bootstrap 4 */}
         {/* AdminLTE App */}
+      </div>
       </div>
     </>
   );
