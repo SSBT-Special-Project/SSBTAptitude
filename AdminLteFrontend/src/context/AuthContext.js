@@ -54,7 +54,28 @@ export const AuthProvider = ({ children }) => {
       // Handle the error here, e.g., show a message to the user
     }
   };
+  //Profile
+  // let  viewProfile = async()=>{
+  //   try {
+  //     let response = await fetch("http://127.0.0.1:8000/api/settings2", {
+  //       method: "POST",
+  //       headers: {
+  //         "Content-Type": "application/json",
+  //       },
+  //       body: JSON.stringify({
+  //         username: e.target.username.value,
+  //         password: e.target.password.value,
+  //       }),
+  //     });
 
+  //     let data = await response.json();
+
+  
+  //   } catch (error) {
+  //     console.error("An error occurred while logging in:", error);
+  //     // Handle the error here, e.g., show a message to the user
+  //   }
+  // }
   //* logout
   let logoutUser = () => {
     console.log("logging out");
