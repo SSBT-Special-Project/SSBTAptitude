@@ -7,6 +7,7 @@ import Login from "./components/Login.js";
 import Register from "./components/Register.js";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import LandingPage from "./components/LandingPage.js";
+import Reset_password from "./components/Reset_password.js";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
             <Route path="/login" element={<Login />} />
             <Route path="/home" element={<Home />} />
             <Route path="/register" element={<Register />} />
+            <Route path="/accounts/reset_password" element={<Reset_password />} />
           </Routes>
           
         </AuthProvider>
