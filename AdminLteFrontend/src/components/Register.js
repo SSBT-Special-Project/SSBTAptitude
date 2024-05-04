@@ -37,8 +37,8 @@ const Register = () => {
                 </div>
                 {loading ? (
                   <div className="col-2">
-                    <div class="spinner-border" role="status">
-                      <span class="sr-only">Loading...</span>
+                    <div className="spinner-border" role="status">
+                      <span className="sr-only">Loading...</span>
                     </div>
                   </div>
                 ) : null}
