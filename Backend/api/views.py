@@ -1134,6 +1134,169 @@ class EditQuestionView(APIView):
                     'message': 'User Not Logged In',
                 }
             }, status=status.HTTP_400_BAD_REQUEST)
+            
+class StartExamAPIView(APIView):
+    def post(self, request):
+        if request.user.is_authenticated:
+            user = request.user
+            id = request.data.get('id')
+
+            try:
+                test = Test.objects.get(id=id)
+                if AnswerSheet.objects.filter(user=user, test=test).exists():
+                    answersheet = AnswerSheet.objects.get(user=user, test=test)
+                else:
+                    answersheet = AnswerSheet.objects.create(user=user, test=test, remaining_time=test.total_time)
+
+                if not answersheet.status:
+                    if datetime.datetime.now() - answersheet.start_time >= datetime.timedelta(minutes=20):
+                        answersheet.status = True
+                        answersheet.save()
+                        return Response({
+                            'status': False,
+                            'code': status.HTTP_400_BAD_REQUEST,
+                            'data': {
+                                'error': "400 - BAD REQUEST",
+                                'message': 'Exam already Expired, pause is about 20 Min',
+                            }
+                        })
+                    else:
+                        request.session['exam'] = {
+                            'test': str(test.id),
+                            'answersheet': str(answersheet.id),
+                            'time': int(answersheet.remaining_time.total_seconds())
+                        }
+                        return Response({
+                            'status': True,
+                            'code': status.HTTP_200_OK,
+                            'data': {
+                                'id': test.id
+                            }
+                        })
+                else:
+                    return Response({
+                        'status': False,
+                        'code': status.HTTP_400_BAD_REQUEST,
+                        'data': {
+                            'error': "400 - BAD REQUEST",
+                            'message': 'Exam already Submitted',
+                        }
+                    })
+            except Test.DoesNotExist:
+                return Response({
+                    'status': False,
+                    'code': status.HTTP_400_BAD_REQUEST,
+                    'data': {
+                        'error': "400 - BAD REQUEST",
+                        'message': 'Test Not Found',
+                    }
+                })
+        else:
+            return Response({
+                'status': False,
+                'code': status.HTTP_400_BAD_REQUEST,
+                'data': {
+                    'error': "400 - BAD REQUEST",
+                    'message': 'User Not Logged In',
+                }
+            })
+
+    def get(self, request):
+        return Response({
+            'status': False,
+            'code': status.HTTP_400_BAD_REQUEST,
+            'data': {
+                'error': "400 - BAD REQUEST",
+                'message': 'Wrong Request Method Used',
+            }
+        })
+        
+class ResultView(APIView):
+    def post(self, request):
+        if request.user.is_authenticated:
+            user = request.user
+            id = request.data.get('id')
+
+            correct_questions = []
+            wrong_questions = []
+            unsolved_questions = []
+
+            try:
+                test = Test.objects.get(id=id)
+                answersheet = AnswerSheet.objects.get(user=user, test=test)
+                for answer in Answer.objects.filter(answer_sheet=answersheet, user=user):
+                    if answer.attempted:
+                        if answer.answer == answer.question.correct_answer:
+                            correct_questions.append(answer)
+                        elif answer.answer != answer.question.correct_answer:
+                            wrong_questions.append(answer)
+                    else:
+                        unsolved_questions.append(answer)
+
+                data = {
+                    'test': {
+                        'id': test.id,
+                        'title': test.title,
+                        'subject': test.subject
+                    },
+                    'obtained_marks': len(correct_questions) * test.marks_per_question,
+                    'total_marks': (len(correct_questions) + len(wrong_questions) + len(unsolved_questions)) * test.marks_per_question,
+                    'correct_questions': len(correct_questions),
+                    'wrong_questions': len(wrong_questions),
+                    'unsolved_questions': len(unsolved_questions),
+                }
+
+                return Response({
+                    'status': True,
+                    'code': status.HTTP_200_OK,
+                    'data': data
+                })
+            except Test.DoesNotExist:
+                return Response({
+                    'status': False,
+                    'code': status.HTTP_400_BAD_REQUEST,
+                    'data': {
+                        'error': "400 - BAD REQUEST",
+                        'message': 'Test does not exist',
+                    }
+                })
+            except AnswerSheet.DoesNotExist:
+                return Response({
+                    'status': False,
+                    'code': status.HTTP_400_BAD_REQUEST,
+                    'data': {
+                        'error': "400 - BAD REQUEST",
+                        'message': 'AnswerSheet does not exist',
+                    }
+                })
+            except Answer.DoesNotExist:
+                return Response({
+                    'status': False,
+                    'code': status.HTTP_400_BAD_REQUEST,
+                    'data': {
+                        'error': "400 - BAD REQUEST",
+                        'message': 'Answer does not exist',
+                    }
+                })
+        else:
+            return Response({
+                'status': False,
+                'code': status.HTTP_400_BAD_REQUEST,
+                'data': {
+                    'error': "400 - BAD REQUEST",
+                    'message': 'User Not Logged In',
+                }
+            })
+
+    def get(self, request):
+        return Response({
+            'status': False,
+            'code': status.HTTP_400_BAD_REQUEST,
+            'data': {
+                'error': "400 - BAD REQUEST",
+                'message': 'Wrong Request Method Used',
+            }
+        })
 
 # Old views 
 class Users:
