@@ -44,8 +44,10 @@ urlpatterns = [
 
     path('exam', views.Exam.exam),
     path('start_exam', views.Exam.start_exam),
+    path('start_exam2', views.StartExamAPIView.as_view()),
     path('exam/time', views.Exam.time),
     path('exam/answered', views.Exam.answered),
     path('exam/end', views.Exam.end_exam),
     path('result', views.Exam.result),
+    path('result2', views.ResultView.as_view()),
 ]
